@@ -1,0 +1,26 @@
+{
+  "name": "unicode-support",
+  "version": "1.0.0",
+  "description": "Check terminal for unicode support",
+  "main": "unicode-support.js",
+  "exports": {
+    "import": "./unicode-support.js",
+    "require": "./unicode-support.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/unicode-support.js.git"
+  },
+  "keywords": [
+    "unicode",
+    "utf8",
+    "unicode-support"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/unicode-support.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/unicode-support.js#readme"
+}

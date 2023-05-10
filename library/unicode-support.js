@@ -1,0 +1,1 @@
+export function unicodeSupport(){return "\u{1F601}".length===2}export default unicodeSupport
